@@ -1,0 +1,6 @@
+このプログラムは UNIX USER 誌で連載された『gccプログラミング工房』にて
+西田亙氏が開発した 8ビット CPU の仮想機械 octopus の一部機能を、私伊藤
+直也 (naoya at hatena.ne.jp) が Perl に移植したものです。オリジナルは
+http://www.skyfree.org/jpn/unixuser/ にて公開されています。
+
+ライセンスはオリジナルに同じく Public Domain Software とします。
