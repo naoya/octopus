@@ -1,6 +1,6 @@
-���Υץ������� UNIX USER ���Ϣ�ܤ��줿��gcc�ץ�����ߥ󥰹�˼�٤ˤ�
-�����ʻ᤬��ȯ���� 8�ӥå� CPU �β��۵��� octopus �ΰ�����ǽ�򡢻��ƣ
-ľ�� (naoya at hatena.ne.jp) �� Perl �˰ܿ�������ΤǤ������ꥸ�ʥ��
-http://www.skyfree.org/jpn/unixuser/ �ˤƸ�������Ƥ��ޤ���
+このプログラムは UNIX USER 誌で連載された『gccプログラミング工房』にて
+西田亙氏が開発した 8ビット CPU の仮想機械 octopus の一部機能を、私伊藤
+直也 (naoya at hatena.ne.jp) が Perl に移植したものです。オリジナルは
+http://www.skyfree.org/jpn/unixuser/ にて公開されています。
 
-�饤���󥹤ϥ��ꥸ�ʥ��Ʊ���� Public Domain Software �Ȥ��ޤ���
+ライセンスはオリジナルに同じく Public Domain Software とします。
